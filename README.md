@@ -29,6 +29,6 @@ I'd like to include an autocomplete feature. Right now, I have to type the entir
 #### Non Functional Requirement
 ![](screenshots/Activity5.png)
 
-On the left is the application running on brave browser and on the right, the application is running on safari. There are minor differences in the UI, the boxes in safari have round-edges with a slight shadow. The arrows have a blue color and use a different style. I would like to keep the UI consistant across different browsers.
+On the left is the application running on brave browser and on the right, the application is running on safari. There are minor differences in the UI, the boxes in safari have round-edges with a slight shadow. The arrows have a blue color and use a different style. I would like to keep the UI consistent across different browsers.
 
 
